@@ -1,1 +1,11 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.tirzahjames.app",
+    "sha256_cert_fingerprints": [
+      "42:31:A3:A4:6B:9D:33:DF:CA:87:A4:DE:12:23:BB:AB:FF:88:5F:3A:8C:DF:C2:1B:27:CF:56:BB:17:94:9F:74"
+    ]
+  }
+}]
 
